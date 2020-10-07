@@ -1,4 +1,4 @@
-# Business AI - 24/7 Collaboration & Monetization Engine
+# TechPM AI - 24/7 Collaboration & Monetization Engine
 
 collaboration engine / social & enterprise innovation protocol - PoC
 

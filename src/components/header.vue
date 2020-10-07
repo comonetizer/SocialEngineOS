@@ -1,7 +1,7 @@
 <template>
   <header id="header">
     <div class="logo">
-      <router-link to="/">Business AI</router-link>
+      <router-link to="/">TechPM AI</router-link>
     </div>
     <nav>
       <ul>
