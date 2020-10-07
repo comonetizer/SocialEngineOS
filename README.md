@@ -1,4 +1,4 @@
-# TechPM AI - 24/7 Collaboration & Monetization Engine
+# Politics AI - 24/7 Collaboration & Monetization Engine
 
 collaboration engine / social & enterprise innovation protocol - PoC
 
