@@ -777,7 +777,7 @@
             <div id="editor-tabs">
               <div id="text-editor">
                 <div
-                  id="view-link"
+                  id="view-image"
                   v-if="cellToEdit.includes('https://storage.googleapis.com/')"
                   :style="
                     cellToEdit.includes('https://storage.googleapis.com/')
@@ -791,10 +791,15 @@
                   "
                 >
                   <a href="https://github.com/terra-os" target="_blank"
-                    >Clone WinWin Best Practices Engine @github.com/terra-os</a
+                    >Clone Best Practices Engine @github.com/terra-os</a
                   ><br />
-                  & Build or Buy your own 24/7 AI Monetized Skills / Services
+                  & Build your own 24/7 AI Monetized Skills / Services
                 </div>
+                <iframe
+                  id="view-link"
+                  v-if="cellToEdit.startsWith('http')"
+                  :src="cellToEdit"
+                ></iframe>
                 <textarea
                   v-else
                   id="textEdit"
@@ -1961,6 +1966,13 @@ textarea {
 }
 
 #view-link {
+  padding-left: 2rem;
+  color: #4285f4;
+  width: 100%;
+  height: 100%;
+}
+
+#view-image {
   padding-left: 2rem;
   color: #4285f4;
   width: 100%;
