@@ -35,12 +35,12 @@ completes if payment succeeds
             dest: .
 
 6 - Set up routing rules in the ingress service # ToDo next
-`,`=IMAGE("https://storage.googleapis.com/ilabs/screens/screen%2027.png")`,
+`,`=IMAGE("https://storage.googleapis.com/ilabs/screens/screen%2027.png")`,`https://evz.ro/`
       ], [
         `# Cont. Set up Orders Service 
 
 - 
-`,`=IMAGE("https://storage.googleapis.com/ilabs/screens/screen%2028.png")`,
+`,`=IMAGE("https://storage.googleapis.com/ilabs/screens/screen%2028.png")`,`https://www.timesnewroman.ro/ovi/`
       ], [
         `# Set up routing rules in the ingress service 
 
@@ -1810,10 +1810,7 @@ interface OrderModel extends mongoose.Model<OrderDoc> {
   - order:cancelled
 
 - Implement a version field in the tickets service !!
-`,`
----
-
----`,`=IMAGE("https://storage.googleapis.com/ilabs/screens/screen%2077.png")`,`=IMAGE("https://storage.googleapis.com/ilabs/screens/screen%2076.png")`,
+`,`https://github.com/terra-os/`,`=IMAGE("https://storage.googleapis.com/ilabs/screens/screen%2077.png")`,`=IMAGE("https://storage.googleapis.com/ilabs/screens/screen%2076.png")`,
     
       ], [
         `# Listener Creation
