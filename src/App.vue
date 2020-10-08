@@ -963,7 +963,7 @@
                   >
                 </h4>
                 <h4 class="long" contenteditable="true">
-                  Collaboration Engine / W3AI SNN Protocol
+                  Collaboration Engine / W3AI Protocol
                 </h4>
               </div>
             </div>
