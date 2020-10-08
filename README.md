@@ -1,4 +1,4 @@
-# Politics AI - 24/7 Collaboration & Monetization Engine
+# Big O AI - 24/7 Collaboration & Monetization Engine
 
 collaboration engine / social & enterprise innovation protocol - PoC
 

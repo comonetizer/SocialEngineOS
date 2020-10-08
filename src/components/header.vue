@@ -1,7 +1,7 @@
 <template>
   <header id="header">
     <div class="logo">
-      <router-link to="/">Politics AI</router-link>
+      <router-link to="/">Big O AI</router-link>
     </div>
     <nav>
       <ul>
