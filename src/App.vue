@@ -998,10 +998,10 @@ import Post from "./views/Post.vue";
 import Report from "./views/Report.vue";
 import Steps from "./views/Steps.vue";
 
-import matrixBiz from "./matrixBizDemo";
-import matrixDev from "./matrixDevDemo";
-import matrixOps from "./matrixOpsDemo";
-import matrixEdit from "./matrixEditDemo";
+import matrixBiz from "./matrix/demo/biz";
+import matrixDev from "./matrix/demo/dev";
+import matrixOps from "./matrix/demo/ops";
+import matrixEdit from "./matrix/demo/edit";
 
 import Icon from "./util/icon.vue";
 import Spreadsheet from "./views/Spreadsheet";

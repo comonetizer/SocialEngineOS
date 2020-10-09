@@ -4,6 +4,8 @@ node_modules
 /.firebase
 /src/gcp.js
 
+/src/matrix
+
 # local env files
 .env.local
 .env.*.local
