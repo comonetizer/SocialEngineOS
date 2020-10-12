@@ -1,7 +1,7 @@
 <template>
   <header id="header">
     <div class="logo">
-      <router-link to="/">BIG O AI</router-link>
+      <router-link to="/">Terra Team</router-link>
     </div>
     <nav>
       <ul>
