@@ -715,14 +715,17 @@
               <button class="edit btn btn-warning" @click="show = !show">
                 Clone
               </button>
-              <button class="edit btn btn-warning" @click="nextProjectInEditor">
-                +
+              <button class="edit btn btn-warning" @click="prevProjectInEditor">
+                &lt;&lt;
               </button>
               <button
                 class="edit player btn btn-success"
                 @click="pause ? start() : stop()"
               >
                 {{ pause ? ">" : "| |" }}
+              </button>
+              <button class="edit btn btn-warning" @click="nextProjectInEditor">
+                &gt;&gt;
               </button>
               <div class="edit-title">
                 <h3 class="long">Poll: a.Interest</h3>
@@ -1424,6 +1427,11 @@ on world's most interesting projects.`,
     },
     nextProjectInEditor() {
       this.matrixEditId++;
+      this.matrixEdit = matrixEdit()[this.matrixEditId % matrixEdit().length];
+      this.cellToEdit = this.matrixEdit[0][0];
+    },
+    prevProjectInEditor() {
+      this.matrixEditId--;
       this.matrixEdit = matrixEdit()[this.matrixEditId % matrixEdit().length];
       this.cellToEdit = this.matrixEdit[0][0];
     },
