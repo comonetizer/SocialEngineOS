@@ -840,7 +840,9 @@
                       {{ rowIndex + 1 }} <br />
                       <span :row="rowIndex" @click="onRowHeadClick">&gt;</span>
                       <br />
-                      <span :row="rowIndex" @click="onRowHeadClick">&lt;</span>
+                      <span :row="rowIndex" @click="onRowHeadClickPrev"
+                        >&lt;</span
+                      >
                     </td>
                     <td
                       contenteditable="true"
@@ -1601,6 +1603,13 @@ on world's most interesting projects.`,
     onRowHeadClick(el) {
       let row = (this.currentRow = el.target.getAttribute("row")); // row - row: 1,... - the row in the matrix table
       this.rowRoll++;
+      this.cellToEdit = this.matrixEdit[row][
+        this.rowRoll % this.matrixEdit[row].length
+      ];
+    },
+    onRowHeadClickPrev(el) {
+      let row = (this.currentRow = el.target.getAttribute("row")); // row - row: 1,... - the row in the matrix table
+      this.rowRoll--;
       this.cellToEdit = this.matrixEdit[row][
         this.rowRoll % this.matrixEdit[row].length
       ];
