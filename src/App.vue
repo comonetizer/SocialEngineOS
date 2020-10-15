@@ -1643,17 +1643,17 @@ on world's most interesting projects.`,
       this.currentCellVal = v;
       /* eslint-enable no-unused-vars */
 
-      let cellId = mat + ":" + row + ":" + col;
+      // let cellId = mat + ":" + row + ":" + col;
 
       // console.log('test onCellClick')
       /* eslint-disable no-console */
-      console.log(m, c, t, r, cellId);
+      // console.log(m, c, t, r, cellId);
 
       this.fx = this.currentCellVal;
       this.cellToEdit = this.matrixEdit[row][col];
 
-      let cellToUpdate = document.getElementById(cellId);
-      cellToUpdate.innerHTML = v;
+      // let cellToUpdate = document.getElementById(cellId);
+      // cellToUpdate.innerHTML = v;
 
       // if ( this.fx[0] === '=' ) {
       //   this.fx += ' ' + m + t + c + r + '';
