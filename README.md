@@ -1,4 +1,4 @@
-# TerraTeam - 24/7 Collaboration & Monetization Engine
+# TerraCloud - 24/7 Collaboration & Monetization Engine
 
 collaboration engine / social & enterprise innovation protocol - PoC
 
@@ -11,7 +11,7 @@ collaboration engine / social & enterprise innovation protocol - PoC
 - open a free basic GCP | Azure | AWS cloud account
 - create a realtime db or spreadsheet for users (eg: Firebase or Google Sheets)
 - create a realtime db or spreadsheet for data (eg: Firestore or Google Sheets)
-- (coming soon: run your own local or cloud ai collab engine)
+- (coming soon: run your own local or cloud AI colab engine)
 
 ```
 npm install
