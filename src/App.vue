@@ -1612,6 +1612,9 @@ on world's most interesting projects.`,
     onRowHeadClickPrev(el) {
       let row = (this.currentRow = el.target.getAttribute("row")); // row - row: 1,... - the row in the matrix table
       this.rowRoll--;
+      if (this.rowRoll == 0) {
+        this.rowRoll = this.matrixEdit[row].length;
+      }
       this.cellToEdit = this.matrixEdit[row][
         this.rowRoll % this.matrixEdit[row].length
       ];
