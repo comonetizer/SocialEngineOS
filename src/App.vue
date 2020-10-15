@@ -841,7 +841,9 @@
                       :row="rowIndex"
                       @click="onRowHeadClick"
                     >
-                      {{ rowIndex + 1 }}
+                      {{ rowIndex + 1 }} <br />
+                      &gt; <br />
+                      &lt;
                     </td>
                     <td
                       contenteditable="true"
