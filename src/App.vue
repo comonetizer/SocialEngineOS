@@ -840,7 +840,7 @@
                       {{ rowIndex + 1 }} <br />
                       <span :row="rowIndex" @click="onRowHeadClick">&gt;</span>
                       <br />
-                      <span>&lt;</span>
+                      <span :row="rowIndex" @click="onRowHeadClick">&lt;</span>
                     </td>
                     <td
                       contenteditable="true"
