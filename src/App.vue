@@ -836,14 +836,11 @@
                     v-for="(row, rowIndex) in matrixEdit"
                     v-bind:key="rowIndex"
                   >
-                    <td
-                      class="cell tbl-head"
-                      :row="rowIndex"
-                      @click="onRowHeadClick"
-                    >
+                    <td class="cell tbl-head" :row="rowIndex">
                       {{ rowIndex + 1 }} <br />
-                      &gt; <br />
-                      &lt;
+                      <span :row="rowIndex" @click="onRowHeadClick">&gt;</span>
+                      <br />
+                      <span>&lt;</span>
                     </td>
                     <td
                       contenteditable="true"
