@@ -794,9 +794,9 @@
                   "
                 >
                   <a href="https://github.com/terra-os" target="_blank"
-                    >Clone Best Practices Engine @github.com/terra-os</a
+                    >Clone Terra Cloud Engine @github.com/terra-os</a
                   ><br />
-                  & Build your own 24/7 AI Monetized Skills / Services
+                  & Build your own 24/7 Monetized Skills/Services
                 </div>
                 <iframe
                   id="view-link"
