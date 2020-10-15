@@ -838,7 +838,9 @@
                   >
                     <td class="cell tbl-head" :row="rowIndex">
                       {{ rowIndex + 1 }} <br />
-                      <span :row="rowIndex" @click="onRowHeadClick">&gt;</span>
+                      <span :row="rowIndex" @click="onRowHeadClickNext"
+                        >&gt;</span
+                      >
                       <br />
                       <span :row="rowIndex" @click="onRowHeadClickPrev"
                         >&lt;</span
@@ -1600,7 +1602,7 @@ on world's most interesting projects.`,
       // ToDo - switch statement for Biz, Dev, Ops Edit matrices
       cellToUpdate.innerHTML = this.matrixDev[row][col];
     },
-    onRowHeadClick(el) {
+    onRowHeadClickNext(el) {
       let row = (this.currentRow = el.target.getAttribute("row")); // row - row: 1,... - the row in the matrix table
       this.rowRoll++;
       this.cellToEdit = this.matrixEdit[row][
