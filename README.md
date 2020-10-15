@@ -1,4 +1,4 @@
-# TerraCloud - 24/7 Collaboration & Monetization Engine
+# CloudThink OS - 24/7 Collaboration & Monetization Engine
 
 collaboration engine / social & enterprise innovation protocol - PoC
 

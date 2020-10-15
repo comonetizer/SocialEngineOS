@@ -1,7 +1,7 @@
 <template>
   <header id="header">
     <div class="logo">
-      <router-link to="/">Terra Cloud</router-link>
+      <router-link to="/">Cloud Think</router-link>
     </div>
     <nav>
       <ul>
