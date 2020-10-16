@@ -1,7 +1,7 @@
 <template>
   <div id="welcome">
     <h1>Thinking @ AI speed</h1>
-    <p>collaborate compete monetize 24/7 - 4rd gen DNA OS</p>
+    <p>collaborate compete monetize 24/7 - 4th gen DNA OS</p>
     <div class="cta">
       <router-link to="/signup">Sign Up</router-link>
       <router-link to="/signin">Sign In</router-link>
