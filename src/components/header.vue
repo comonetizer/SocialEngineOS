@@ -1,7 +1,7 @@
 <template>
   <header id="header">
     <div class="logo">
-      <router-link to="/">Money OS</router-link>
+      <router-link to="/">MONEY OS</router-link>
     </div>
     <nav>
       <ul>
