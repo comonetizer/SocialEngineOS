@@ -1066,7 +1066,7 @@ export default {
       postNameId: 0,
       opsName: ["ads", "app", "ops", "srv", "offr", "ask", "rRNA"],
       opsNameId: 1,
-      backgroundText: `&nbsp;colab = &nbsp;task &nbsp;&#x2731 ops
+      backgroundText: `&nbsp;Biz&nbsp; = &nbsp;Dev &nbsp;&#x2731&nbsp; Ops
             <br><br>
             &nbsp;recombinant &nbsp;repos`,
       liveText: `&nbsp; cash =&nbsp;cmds&nbsp;&#x2731 ops
