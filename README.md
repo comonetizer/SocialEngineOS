@@ -1,4 +1,4 @@
-# Solution OS - 24/7 Collaboration & Monetization Engine
+# Money OS - 24/7 Collaboration & Monetization Engine
 
 collaboration engine / social & enterprise innovation protocol - PoC
 
