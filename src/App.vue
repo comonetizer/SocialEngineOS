@@ -1068,7 +1068,7 @@ export default {
       opsNameId: 1,
       backgroundText: `&nbsp;colab = &nbsp;task &nbsp;&#x2731 ops
             <br><br>
-            &nbsp;solution accelerator`,
+            &nbsp;projects accelerator`,
       liveText: `&nbsp; cash =&nbsp;cmds&nbsp;&#x2731 ops
             <br><br>
             terra winwin engine`,
