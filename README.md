@@ -1,4 +1,4 @@
-# Money OS - 24/7 Collaboration & Monetization Engine
+# attn: AI - 24/7 Productivity & Monetization Engine
 
 collaboration engine / social & enterprise innovation protocol - PoC
 
