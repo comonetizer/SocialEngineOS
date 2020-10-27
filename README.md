@@ -1,4 +1,4 @@
-# Governance OS - 24/7 Governance & Innovation Engine
+# AI Factory OS - 24/7 Solutions & Innovation Engine
 
 collaboration engine / social & enterprise innovation protocol - PoC
 
