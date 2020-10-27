@@ -1,4 +1,4 @@
-# attn: AI - 24/7 Productivity & Monetization Engine
+# Governance OS - 24/7 Governance & Innovation Engine
 
 collaboration engine / social & enterprise innovation protocol - PoC
 

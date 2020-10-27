@@ -1,7 +1,7 @@
 <template>
   <header id="header">
     <div class="logo">
-      <router-link to="/">Attn: AI</router-link>
+      <router-link to="/">Governance OS</router-link>
     </div>
     <nav>
       <ul>
