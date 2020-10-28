@@ -6,6 +6,8 @@ node_modules
 
 /src/matrix
 
+firebase-debug.log
+
 # local env files
 .env.local
 .env.*.local
