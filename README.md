@@ -1,4 +1,4 @@
-# AI Factory OS - 24/7 Solutions & Innovation Engine
+# Monetize OS - 24/7 Collaboration & Monetization Engine
 
 collaboration engine / social & enterprise innovation protocol - PoC
 
