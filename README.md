@@ -1,4 +1,4 @@
-# Monetize OS - 24/7 Collaboration & Monetization Engine
+# AI Monetizer - 24/7 Innovation & Monetization Engine
 
 collaboration engine / social & enterprise innovation protocol - PoC
 
