@@ -1,6 +1,6 @@
-# AI Monetizer - 24/7 Innovation & Monetization Engine
+# TerraOne - Socialization & Monetization Engine
 
-collaboration engine / social & enterprise innovation protocol - PoC
+collaboration engine / social & monetization protocol - PoC
 
 ![Web colab PoC](ai-colab-engine-PoC-animated.gif)
 
