@@ -1,7 +1,7 @@
 <template>
   <header id="header">
     <div class="logo">
-      <router-link to="/">TerraOne</router-link>
+      <router-link to="/">PlayBook OS</router-link>
     </div>
     <nav>
       <ul>
