@@ -1,4 +1,4 @@
-# TerraJobs OS - Socialization & Monetization Engine
+# DevEngine OS - Development & Monetization Engine
 
 collaboration engine / social monetization protocol - PoC
 
