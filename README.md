@@ -1,6 +1,6 @@
-# TerraOne - Socialization & Monetization Engine
+# TerraJobs OS - Socialization & Monetization Engine
 
-collaboration engine / social & monetization protocol - PoC
+collaboration engine / social monetization protocol - PoC
 
 ![Web colab PoC](ai-colab-engine-PoC-animated.gif)
 
