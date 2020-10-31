@@ -1,7 +1,7 @@
 <template>
   <header id="header">
     <div class="logo">
-      <router-link to="/">DevEngine OS</router-link>
+      <router-link to="/">Terra Pros OS</router-link>
     </div>
     <nav>
       <ul>
