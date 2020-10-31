@@ -1,4 +1,4 @@
-# Business Engine OS - Development & Monetization Engine
+# Business Engine - Development & Monetization Engine
 
 collaboration engine / social monetization protocol - PoC
 
