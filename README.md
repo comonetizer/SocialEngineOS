@@ -1,4 +1,4 @@
-# DevEngine OS - Development & Monetization Engine
+# Terra Pros OS - Socialization & Monetization Engine
 
 collaboration engine / social monetization protocol - PoC
 
