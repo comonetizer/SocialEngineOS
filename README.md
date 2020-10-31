@@ -1,4 +1,4 @@
-# Terra Pros OS - Socialization & Monetization Engine
+# Project Engine OS - Development & Monetization Engine
 
 collaboration engine / social monetization protocol - PoC
 
