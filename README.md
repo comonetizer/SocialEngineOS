@@ -1,4 +1,4 @@
-# Business Engine - Development & Monetization Engine
+# Team Engine - Development & Monetization Engine
 
 collaboration engine / social monetization protocol - PoC
 

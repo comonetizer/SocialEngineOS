@@ -1,7 +1,7 @@
 <template>
   <header id="header">
     <div class="logo">
-      <router-link to="/">Business Engine OS</router-link>
+      <router-link to="/">Team Engine</router-link>
     </div>
     <nav>
       <ul>
