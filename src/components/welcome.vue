@@ -1,6 +1,6 @@
 <template>
   <div id="welcome">
-    <h1>Business @ AI Speed</h1>
+    <h1>Progress @ AI Speed</h1>
     <p>develop >> monetize >> repeat 24/7 - 1st gen. DNA OS</p>
     <div class="cta">
       <router-link to="/signup">Sign Up</router-link>
